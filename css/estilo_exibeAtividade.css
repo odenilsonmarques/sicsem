@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    color: #006600;
+}
+th{
+    color: #fff;
+}
+
+#ATIV_PFISICA_RSOCIAL,#ATIV_EMPREENDIMENTO{
+    display: none;
+}

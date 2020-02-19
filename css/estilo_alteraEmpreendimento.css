@@ -1,0 +1,19 @@
+h3{
+    color: #006600;
+}
+th{
+    color: #fff;
+}
+
+label.error{
+    color:#CC0000;
+    font-weight:bold;
+    float:right;
+    font-size: 13px;
+    font-family:sans-serif;
+}
+label{
+    font-weight:bold;
+    font-size: 13px;
+    color:#006600;
+}

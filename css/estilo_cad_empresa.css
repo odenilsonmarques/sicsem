@@ -1,0 +1,36 @@
+label.error{
+    color:#CC0000;
+    font-weight:bold;
+    float:right;
+    font-size: 13px;
+    font-family:sans-serif;
+}
+label{
+    font-weight:bold;
+    font-size: 13px;
+    color:#006600;
+}
+h3{
+    color: #006600;
+}
+.nav a{
+    color: #000;
+    border-radius: 3px;
+}
+#divResultado{
+    font-family: serif;
+    font-size: 14px;
+    color: #000;
+    margin-top:5px;
+    font-weight: bold;
+}                                            
+button a{
+    font-size: 17px; 
+    font-weight: bold; 
+    color: #fff;
+    text-decoration: none;
+}
+#RAMO1,#RAMO2,#RAMO3,#RAMO4,#RAMO5
+{
+    display:none;
+}

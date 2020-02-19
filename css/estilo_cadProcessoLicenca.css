@@ -1,0 +1,24 @@
+h3{
+    color: #006600;
+}
+.panel-heading {
+    background-color: #67b168;
+    color: #fff;
+}
+label{
+    margin-left: 0px;
+    color: #006600;
+}
+button a{
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+label.error{
+    color:#CC0000;
+    font-weight:bold;
+    float:right;
+    font-size: 13px;
+    font-family:sans-serif;
+}

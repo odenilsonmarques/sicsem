@@ -1,0 +1,53 @@
+body{
+    /*background-color:#c9e2b3;*/
+    background-color:#d0e9c6;
+}
+.col-sm-2{
+    text-align: center;
+}
+.panel{
+    background-color: #048C46;
+    border: none; 
+}
+h5{
+    color: #122b40;
+    font-size: 14px;
+    
+}
+.panel-body{
+    background-color: teal;
+}
+.grow:hover
+{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {height: auto;} 
+}
+.sidenav {
+    background-color:teal;
+    height: 100%;
+    border-radius: 3px;
+}
+li{
+    text-align: justify;
+    border-bottom: 1px solid #FFF;
+}   
+a{
+    color: #fff;font-size: 17px;
+}
+
+h1{
+    color: teal;font-size: 38px;
+}
+P{
+    color: teal;font-size: 17px;
+}

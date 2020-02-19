@@ -1,0 +1,42 @@
+/*O código abaixo tem como objetivo, aplicar estilo na pagina de login */
+
+body{
+    /*background-color: #048C46;*/
+    background-image: url(../img/back7.jpg);background-repeat: no-repeat;
+}
+
+label{
+    color:#006600;
+    font-weight:bold; 
+    float:left;
+    font-size: 18px;
+}
+label.error{
+    color:#CC0000;
+    font-weight:bold;
+    float:right; 
+    font-size: 16px;
+}
+.direito-reservados{
+    color: #006600;
+}
+#login{
+   text-align:center; 
+}
+.login-header{
+   text-align:center;  
+   border-radius: 7px;
+   background-color: #fff;
+}
+
+#form-group{
+    border-radius: 10px;
+}
+.btn{
+    background-color: #006600;
+    color: #fff;
+    font-size: 18px;
+}
+h1{
+    color: teal;
+}

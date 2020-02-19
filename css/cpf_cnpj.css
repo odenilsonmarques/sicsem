@@ -1,0 +1,10 @@
+
+.invisivel 
+{ 
+    display: none; 
+}
+
+.visivel
+{
+    visibility: visible;
+}

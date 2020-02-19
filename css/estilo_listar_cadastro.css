@@ -1,0 +1,41 @@
+body{
+    background-color:#dff0d8
+}
+.col-sm-3{
+    text-align: center;
+}
+.panel{
+    background-color: #048C46;
+    border: none; 
+}
+h5{
+    color: #122b40;
+    font-size: 14px;
+}
+.panel-body{
+    background-color: #122b40;
+}
+.grow:hover
+{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {height: auto;} 
+}
+.sidenav {
+    background-color:#CCC;
+    height: 100%;
+    border-radius: 3px;
+}
+li{
+    text-align: justify;
+    border-bottom: 1px solid #FFF;
+}   

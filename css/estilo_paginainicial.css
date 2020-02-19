@@ -1,0 +1,32 @@
+/*O código abaixo tem como objetivo, aplicar estilo na pagina de login */
+body{
+    /*background-color:#f6f6f6;*/
+}
+p{
+    color: teal;
+}
+h1{
+    color: teal;
+}
+.sidenav{
+    /*background-color: #048C46;*/
+    background-color: #67b168;
+    
+}
+.panel-default ul li a{
+    background-color: #FFF;
+    text-align: center;
+}
+.panel-heading h5{
+    color: #fff;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+th{
+    color: #fff;
+}
+
+
+

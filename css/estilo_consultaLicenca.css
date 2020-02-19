@@ -1,0 +1,12 @@
+ 
+ul {
+    margin-top: -10px;
+}
+a:link{
+    color: #FFF;
+    text-decoration: none;
+}
+a:visited{
+    color: #FFF;
+    color:#d43f3a
+}
